@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="tt_manager" name="tt_manager">9dfcbeda97bef9107f203d37f053af24</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:41:05</sys_created_on>
+        <sys_id>1dfcbeda97bef9107f203d37f053af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9dfcbeda97bef9107f203d37f053af24</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1dfcbeda97bef9107f203d37f053af25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:41:05</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

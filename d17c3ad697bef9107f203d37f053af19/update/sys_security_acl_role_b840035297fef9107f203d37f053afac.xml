@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:55:32</sys_created_on>
+        <sys_id>b840035297fef9107f203d37f053afac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reisekosten.tt_manager</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_security_acl display_value="u_reisekosten">7040035297fef9107f203d37f053afaa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b840035297fef9107f203d37f053afac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:55:32</sys_updated_on>
+        <sys_user_role display_value="tt_manager" name="tt_manager">9dfcbeda97bef9107f203d37f053af24</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
