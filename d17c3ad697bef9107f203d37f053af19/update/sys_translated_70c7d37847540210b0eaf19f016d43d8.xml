@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>question_text</element>
+        <id/>
+        <label>Was möchtest du erfassen?</label>
+        <language>de</language>
+        <name>question</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 14:21:30</sys_created_on>
+        <sys_id>70c7d37847540210b0eaf19f016d43d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Was möchtest du erfassen?</sys_name>
+        <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
+        <sys_update_name>sys_translated_70c7d37847540210b0eaf19f016d43d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 14:21:30</sys_updated_on>
+        <value>What kind of expense would you like to submit?</value>
+    </sys_translated>
+</record_update>

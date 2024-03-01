@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_in_rechnung_stellen" label="In Rechnung stellen" language="en" table="u_reisekosten">
+    <sys_documentation element="u_in_rechnung_stellen" label="Include in invoice?" language="en" table="u_reisekosten">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_in_rechnung_stellen</element>
             <help/>
             <hint/>
-            <label>In Rechnung stellen</label>
+            <label>Include in invoice?</label>
             <language>en</language>
             <name>u_reisekosten</name>
-            <plural>In Rechnung stellens</plural>
+            <plural>Include in invoice?s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-12-01 14:55:29</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>In Rechnung stellen</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Include in invoice?</sys_name>
             <sys_package display_value="Reisekosten" source="d17c3ad697bef9107f203d37f053af19">d17c3ad697bef9107f203d37f053af19</sys_package>
             <sys_policy/>
             <sys_scope display_value="Reisekosten">d17c3ad697bef9107f203d37f053af19</sys_scope>
             <sys_update_name>sys_documentation_u_reisekosten_u_in_rechnung_stellen_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-01 14:55:29</sys_updated_on>
+            <sys_updated_on>2024-02-09 14:30:39</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
